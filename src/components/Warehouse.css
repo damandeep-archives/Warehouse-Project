@@ -1,0 +1,68 @@
+.jc-e{
+    justify-content: space-evenly;
+}
+
+.mt-2
+{
+    margin-top: 2px;
+
+}
+
+.mb-2{
+    margin-bottom: 2px;
+}
+
+
+.lab{
+    font-size: 20px;
+}
+
+/* .item{
+    width: 15%;
+} */
+/* h4{
+    text-align: left;
+} */
+.box{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+width: 40%;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid black;
+}
+tr{
+    
+    display: flex;
+ 
+    /* margin-bottom: 10px; */
+}
+
+th{
+    border: 1px solid black;
+}
+
+.w-10{
+    width: 10%;
+}
+
+.w-20{
+    width: 20%;
+}
+.w-30{
+    width: 30%;
+}
+
+.w-7{
+    width: 7%;
+}
+
+th{
+    width: 12%;    
+}
+/* td{
+    border: 1px solid black;
+    display:flex;
+    justify-content: space-evenly;
+    width: 12%;
+} */
